@@ -1,0 +1,10 @@
+walking_speed_km_h,4
+driving_speed_km_h,30
+fixed_cost,375
+variable_cost,1
+max_daily_walking_time_min,75
+max_walking_distance_2points_km,10
+max_walkingtour_duration_min,420
+max_total_route_duration,420
+parking_time_min,0
+distance,euclidean
